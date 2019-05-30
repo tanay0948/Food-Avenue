@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106692340944",
+    "firebase_url": "https://recyclerdatafetch.firebaseio.com",
+    "project_id": "recyclerdatafetch",
+    "storage_bucket": "recyclerdatafetch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106692340944:android:328219a481c5dabc",
+        "android_client_info": {
+          "package_name": "com.tanaysaxena.recyclerdatafetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106692340944-ho4jga19es9rh609t844ddibtm825n5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanaysaxena.recyclerdatafetch",
+            "certificate_hash": "4136acf6febc43a09edd1b93ef7b2c7484c7b9ca"
+          }
+        },
+        {
+          "client_id": "106692340944-tdcm2eculbeacabvv2m67f0pm4t2b0fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8x4bmUGasC8B80qM22cH4uF5XMil7Z6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106692340944-tdcm2eculbeacabvv2m67f0pm4t2b0fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
